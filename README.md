@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lora
 - 👀 I’m interested in learning about Programming, Cybersecurity & Creating a Network
-- 🌱 I’m currently learning Javascript
-- 💞️ I’m looking to collaborate on HTML/CSS, & Wordpress
+- 🌱 I’m currently learning Python
+- 💞️ I’m looking to collaborate on HTML/CSS, & Wordpress, Java script and Python.
 - 📫 How to reach me: Gmail, & Discord
 
 <!---
